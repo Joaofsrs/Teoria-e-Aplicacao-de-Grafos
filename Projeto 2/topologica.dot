@@ -1,0 +1,54 @@
+digraph T {
+    {
+       rank=same
+       node [shape=circle]
+       CIC0003 CIC0004 CIC0142 MAT0025 CIC0002 CIC0090 CIC0229 CIC0231 MAT0026 MAT0031 CIC0098 CIC0197 EST0023 MAT0034 MAT0053 CIC0124 CIC0182 CIC0198 CIC0199 CIC0093 CIC0097 CIC0105 CIC0135 CIC0202 CIC0101 CIC0104 CIC0161 CIC0203 CIC0205 CIC0189 CIC0201 CIC0204 
+    }
+    CIC0097;
+    MAT0034 -> CIC0161[label="4",weight="4"];
+    CIC0161 -> CIC0204[label="6",weight="6"];
+    CIC0098 -> CIC0202[label="4",weight="4"];
+    CIC0098 -> CIC0104[label="4",weight="4"];
+    MAT0031;
+    CIC0002;
+    MAT0025 -> MAT0026[label="6",weight="6"];
+    MAT0025 -> EST0023[label="6",weight="6"];
+    MAT0025 -> CIC0189[label="6",weight="6"];
+    EST0023 -> CIC0203[label="4",weight="4"];
+    MAT0026 -> MAT0053[label="6",weight="6"];
+    MAT0053;
+    CIC0142;
+    CIC0004 -> CIC0090[label="6",weight="6"];
+    CIC0004 -> CIC0229[label="6",weight="6"];
+    CIC0004 -> CIC0231[label="6",weight="6"];
+    CIC0231;
+    CIC0229;
+    CIC0090 -> CIC0124[label="4",weight="4"];
+    CIC0090 -> CIC0197[label="4",weight="4"];
+    CIC0090 -> CIC0182[label="4",weight="4"];
+    CIC0090 -> CIC0199[label="4",weight="4"];
+    CIC0090 -> CIC0093[label="4",weight="4"];
+    CIC0090 -> CIC0135[label="4",weight="4"];
+    CIC0090 -> CIC0203[label="4",weight="4"];
+    CIC0090 -> CIC0104[label="4",weight="4"];
+    CIC0090 -> CIC0101[label="4",weight="4"];
+    CIC0090 -> CIC0189[label="4",weight="4"];
+    CIC0189;
+    CIC0101;
+    CIC0104 -> CIC0204[label="4",weight="4"];
+    CIC0203;
+    CIC0135;
+    CIC0093 -> CIC0204[label="4",weight="4"];
+    CIC0204;
+    CIC0199;
+    CIC0182;
+    CIC0197 -> CIC0198[label="4",weight="4"];
+    CIC0197 -> CIC0105[label="4",weight="4"];
+    CIC0105;
+    CIC0198 -> CIC0202[label="4",weight="4"];
+    CIC0202 -> CIC0205[label="4",weight="4"];
+    CIC0205;
+    CIC0124 -> CIC0201[label="4",weight="4"];
+    CIC0201;
+    CIC0003;
+}

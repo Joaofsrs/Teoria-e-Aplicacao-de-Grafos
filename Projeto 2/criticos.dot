@@ -1,0 +1,11 @@
+digraph Cr {
+    CIC0004 -> CIC0090[label="6",weight="6"];
+    CIC0090 -> CIC0197[label="4",weight="4"];
+    CIC0197 -> CIC0198[label="4",weight="4"];
+    CIC0198 -> CIC0202[label="4",weight="4"];
+    CIC0202 -> CIC0205[label="4",weight="4"];
+    MAT0025 -> MAT0026[label="6",weight="6"];
+    MAT0026 -> MAT0053[label="6",weight="6"];
+    MAT0034 -> CIC0161[label="4",weight="4"];
+    CIC0161 -> CIC0204[label="6",weight="6"];
+}

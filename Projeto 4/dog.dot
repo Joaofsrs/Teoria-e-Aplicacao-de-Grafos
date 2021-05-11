@@ -1,0 +1,86 @@
+graph Z {
+    M1[label="113034\n6\n"] 
+    M2[label="113476\n6\n"] 
+    M3[label="113468\n4\n"] 
+    M4[label="113042\n6\n"] 
+    M5[label="113093\n4\n"] 
+    M6[label="113450\n4\n"] 
+    M7[label="116319\n4\n"] 
+    M8[label="113417\n6\n"] 
+    M9[label="113107\n4\n"] 
+    M10[label="115045\n4\n"] 
+    M11[label="116394\n4\n"] 
+    M12[label="117889\n4\n"] 
+    M13[label="116572\n4\n"] 
+    M14[label="117366\n4\n"] 
+    M15[label="117897\n4\n"] 
+    M16[label="117901\n4\n"] 
+    M17[label="116343\n4\n"] 
+    M18[label="116378\n4\n"] 
+    M19[label="116441\n4\n"] 
+    M20[label="116653\n4\n"] 
+    M21[label="117935\n4\n"] 
+    M22[label="116882\n6\n"] 
+    M23[label="116416\n4\n"] 
+    M24[label="116432\n4\n"] 
+    M25[label="117943\n4\n"] 
+    M26[label="117960\n4\n"] 
+    M27[label="117536\n4\n"] 
+    M28[label="117927\n4\n"] 
+    M29[label="117951\n4\n"] 
+    M30[label="116726\n2\n"] 
+    M31[label="116912\n2\n"] 
+    M32[label="117919\n2\n"] 
+    M33[label="116921\n2\n"] 
+    subgraph cluster_0{
+        label="Primeiro Semestre";
+        M1 -- M2 -- M3 -- M1;
+        color=black;
+    }
+    subgraph cluster_1 {
+        label="Segundo Semestre";
+        M4 -- {M5 -- M6 -- M7};
+        M5 -- M7;
+        color=black;
+    }
+    subgraph cluster_2 {
+        label="Teceiro Semestre";
+        M8 -- {M9 -- M10 -- M11 -- M12};
+        M10 -- M12 -- M9 -- M11;
+        color=black;
+    }
+    subgraph cluster_3 {
+        label="Quarto Semestre";
+        M13 -- {M14 -- M15 -- M16};
+        M16 -- M14;
+        color=black;
+    }
+    subgraph cluster_4{
+        label="Quinto Semestre";
+        M17 -- {M18 -- M19 -- M20 -- M21};
+        M19 -- M21 -- M18 -- M20;
+        color=black;
+    }
+    subgraph cluster_5{
+        label="Sexto Semestre";
+        M22 -- {M23 -- M24 -- M25 -- M26};
+        M25 -- M23 -- M26 -- M24;
+        color=black;
+    }
+    subgraph cluster_6{
+        label="Setimo Semestre";
+        M27 -- {M28 -- M29 -- M30};
+        M28 -- M30;
+        color=black;
+    }
+    subgraph cluster_7 {
+        label="Oitavo Semestre";
+        M31 -- M32;
+        color=black;
+    }
+    subgraph cluster_8 {
+        label="Nono Semestre";
+        M33;
+        color=black;
+    }
+}

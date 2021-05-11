@@ -1,0 +1,43 @@
+113034 - Calculo 1 - 6
+113476 - Algoritmos de Programação de Computadores - 6
+113468 - Introducao a Sistemas Computacao - 4
+
+113042 - Calculo 2 - 6
+113093 - Introducao a Algebra Linear - 4
+113450 - Fundamentos Teoricos da Computacao - 4
+116319 - Estrutura de Dados - 4
+
+113107 - Algebra 1 - 4
+113417 - Calculo Numerico - 6
+115045 - Probabilidade e Estatistica - 4
+116394 - Organizacao e Arquitetura de Computadores - 4
+117889 - Tecnicas de Programacao 1 - 4
+
+116572 - Redes de Computadores - 4
+117366 - Logica Computacional 1 - 4
+117897 - Tecnicas de Programacao 2 - 4
+117901 - Teoria e Aplicacao de Grafos - 4
+
+116343 - Linguagens de Programacao - 4
+116378 - Banco de Dados - 4
+116441 - Engenharia de Software - 4
+116653 - Introducao a Inteligencia Artificial - 4
+117935 - Programacao Concorrente - 4
+
+116416 - Sistemas de Informacao - 4
+116432 - Software Basico - 4
+116882 - Automatos e Computabilidade - 6
+117943 - Computacao Experimental - 4
+117960 - Fundamentos de Sistemas Operacionais - 4
+
+116726 - Informatica e Sociedade - 2
+117536 - Projeto e Análise de Algoritmos - 4
+117927 - Seguranca Computacional - 4
+117951 - Compiladores - 4
+
+116912 - Trabalho de Graduacao 1 - 2
+117919 - Metodologia Cientifica - 2
+
+116921 - Trabalho de Graduacao 2 - 2
+
+

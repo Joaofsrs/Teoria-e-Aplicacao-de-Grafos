@@ -1,0 +1,86 @@
+graph P {
+    M1[label="113034\nSeg/Qua/Sex\n 8:00 - 9:50",style=filled, color=darkred] 
+    M2[label="113476\nSeg/Qua/Sex\n 10:00 - 11:50",style=filled, color=orange] 
+    M3[label="113468\nSeg/Qua\n 14:00 - 15:50",style=filled, color=yellow] 
+    M4[label="113042\nSeg/Qua/Sex\n 8:00 - 9:50",style=filled, color=darkred] 
+    M5[label="113093\nSeg/Qua\n 10:00 - 11:50",style=filled, color=orange] 
+    M6[label="113450\nSeg/Qua\n 14:00 - 15:50",style=filled, color=yellow] 
+    M7[label="116319\nSeg/Qua\n 16:00 - 17:50",style=filled, color=green] 
+    M8[label="113417\nSeg/Qua/Sex\n 8:00 - 9:50",style=filled, color=darkred] 
+    M9[label="113107\nSeg/Qua\n 10:00 - 11:50",style=filled, color=orange] 
+    M10[label="115045\nSeg/Qua\n 14:00 - 15:50",style=filled, color=yellow] 
+    M11[label="116394\nSeg/Qua\n 16:00 - 17:50",style=filled, color=green] 
+    M12[label="117889\nTer/Qui\n 8:00 - 9:50",style=filled, color=purple] 
+    M13[label="116572\nSeg/Qua\n 8:00 - 9:50",style=filled, color=darkred] 
+    M14[label="117366\nSeg/Qua\n 10:00 - 11:50",style=filled, color=orange] 
+    M15[label="117897\nSeg/Qua\n 14:00 - 15:50",style=filled, color=yellow] 
+    M16[label="117901\nSeg/Qua\n 16:00 - 17:50",style=filled, color=green] 
+    M17[label="116343\nSeg/Qua\n 8:00 - 9:50",style=filled, color=darkred] 
+    M18[label="116378\nSeg/Qua\n 10:00 - 11:50",style=filled, color=orange] 
+    M19[label="116441\nSeg/Qua\n 14:00 - 15:50",style=filled, color=yellow] 
+    M20[label="116653\nSeg/Qua\n 16:00 - 17:50",style=filled, color=green] 
+    M21[label="117935\nTer/Qui\n 8:00 - 9:50",style=filled, color=purple] 
+    M22[label="116882\nSeg/Qua/Sex\n 8:00 - 9:50",style=filled, color=darkred] 
+    M23[label="116416\nSeg/Qua\n 10:00 - 11:50",style=filled, color=orange] 
+    M24[label="116432\nSeg/Qua\n 14:00 - 15:50",style=filled, color=yellow] 
+    M25[label="117943\nSeg/Qua\n 16:00 - 17:50",style=filled, color=green] 
+    M26[label="117960\nTer/Qui\n 8:00 - 9:50",style=filled, color=purple] 
+    M27[label="117536\nSeg/Qua\n 8:00 - 9:50",style=filled, color=darkred] 
+    M28[label="117927\nSeg/Qua\n 10:00 - 11:50",style=filled, color=orange] 
+    M29[label="117951\nSeg/Qua\n 14:00 - 15:50",style=filled, color=yellow] 
+    M30[label="116726\nSeg\n 16:00 - 17:50",style=filled, color=green] 
+    M31[label="116912\nSeg\n 8:00 - 9:50",style=filled, color=darkred] 
+    M32[label="117919\nSeg\n 10:00 - 11:50",style=filled, color=orange] 
+    M33[label="116921\nSeg\n 8:00 - 9:50",style=filled, color=darkred] 
+    subgraph cluster_0{
+        label="Primeiro Semestre";
+        M1 -- M2 -- M3 -- M1;
+        color=pink;
+    }
+    subgraph cluster_1 {
+        label="Segundo Semestre";
+        M4 -- {M5 -- M6 -- M7};
+        M5 -- M7;
+        color=pink;
+    }
+    subgraph cluster_2 {
+        label="Teceiro Semestre";
+        M8 -- {M9 -- M10 -- M11 -- M12};
+        M10 -- M12 -- M9 -- M11;
+        color=pink;
+    }
+    subgraph cluster_3 {
+        label="Quarto Semestre";
+        M13 -- {M14 -- M15 -- M16};
+        M16 -- M14;
+        color=pink;
+    }
+    subgraph cluster_4{
+        label="Quinto Semestre";
+        M17 -- {M18 -- M19 -- M20 -- M21};
+        M19 -- M21 -- M18 -- M20;
+        color=pink;
+    }
+    subgraph cluster_5{
+        label="Sexto Semestre";
+        M22 -- {M23 -- M24 -- M25 -- M26};
+        M25 -- M23 -- M26 -- M24;
+        color=pink;
+    }
+    subgraph cluster_6{
+        label="Setimo Semestre";
+        M27 -- {M28 -- M29 -- M30};
+        M28 -- M30;
+        color=pink;
+    }
+    subgraph cluster_7 {
+        label="Oitavo Semestre";
+        M31 -- M32;
+        color=pink;
+    }
+    subgraph cluster_8 {
+        label="Nono Semestre";
+        M33;
+        color=pink;
+    }
+}

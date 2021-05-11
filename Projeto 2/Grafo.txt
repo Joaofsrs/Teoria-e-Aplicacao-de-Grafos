@@ -1,0 +1,65 @@
+CIC0003 Introducao aos Sistemas Computacionais
+CIC0004 Algoritmos e Programacao de Computadores
+CIC0142 Informatica e Sociedade
+MAT0025 Calculo 1
+CIC0002 Fundamentos Teoricos da Computacao
+CIC0090 Estrutura de Dados
+CIC0229 Circuitos Logicos
+CIC0231 Laboratorio de CL
+MAT0026 Calculo 2
+MAT0031 Introducao a Algebra Linear
+CIC0098 Organizacao e Arquitetura de Computadores
+CIC0197 Tecnicas de Programacao 1
+EST0023 Probabilidade e Estatistica
+MAT0034 Algebra 1
+MAT0053 Calculo Numerico
+CIC0124 Redes de Computadores
+CIC0182 Logica Computacional 1
+CIC0198 Tecnicas de Programacao 2
+CIC0199 Teoria e Aplicacao de Grafos
+CIC0093 Linguagens de Programacao
+CIC0097 Bancos de Dados
+CIC0105 Engenharia de Software
+CIC0135 Introducao a Inteligencia Artificial
+CIC0202 Programacao Concorrente
+CIC0101 Sistemas de Informacao
+CIC0104 Software Basico
+CIC0161 Automatos e Computabilidade
+CIC0203 Computacao Experimental
+CIC0205 Fundamentos de Sistemas Operacionais
+CIC0189 Projeto e Analise de Algoritmos
+CIC0201 Seguranca Computacional
+CIC0204 Compiladores
+
+CIC0003 4
+CIC0004 6 CIC0090 4 CIC0229 4 CIC0231 2
+CIC0142 2
+MAT0025 6 MAT0026 6 EST0023 4 CIC0189 4
+CIC0002 4
+CIC0090 4 CIC0124 4 CIC0197 4 CIC0182 4 CIC0199 4 CIC0093 4 CIC0135 4 CIC0203 4 CIC0104 4 CIC0101 4 CIC0189 4
+CIC0229 4
+CIC0231 2
+MAT0026 6 MAT0053 6
+MAT0031 4
+CIC0098 4 CIC0202 4 CIC0104 4
+CIC0197 4 CIC0198 4 CIC0105 4
+EST0023 4 CIC0203 4
+MAT0034 4 CIC0161 6
+MAT0053 6
+CIC0124 4 CIC0201 4
+CIC0182 4
+CIC0198 4 CIC0202 4
+CIC0199 4
+CIC0093 4 CIC0204 4
+CIC0097 4
+CIC0105 4
+CIC0135 4
+CIC0202 4 CIC0205 4
+CIC0101 4
+CIC0104 4 CIC0204 4
+CIC0161 6 CIC0204 4
+CIC0203 4
+CIC0205 4
+CIC0189 4
+CIC0201 4
+CIC0204 4

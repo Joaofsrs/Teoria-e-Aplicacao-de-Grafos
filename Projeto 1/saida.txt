@@ -1,0 +1,593 @@
+----Vertices----
+
+Vertice 1 : 11 - 15 - 16 - 41 - 43 - 48
+Grau V(1):6
+
+Vertice 2 : 18 - 20 - 27 - 28 - 29 - 37 - 42 - 55
+Grau V(2):8
+
+Vertice 3 : 11 - 43 - 45 - 62
+Grau V(3):4
+
+Vertice 4 : 9 - 15 - 60
+Grau V(4):3
+
+Vertice 5 : 52
+Grau V(5):1
+
+Vertice 6 : 10 - 14 - 57 - 58
+Grau V(6):4
+
+Vertice 7 : 10 - 14 - 18 - 55 - 57 - 58
+Grau V(7):6
+
+Vertice 8 : 20 - 28 - 31 - 41 - 55
+Grau V(8):5
+
+Vertice 9 : 4 - 21 - 29 - 38 - 46 - 60
+Grau V(9):6
+
+Vertice 10 : 6 - 7 - 14 - 18 - 33 - 42 - 58
+Grau V(10):7
+
+Vertice 11 : 1 - 3 - 30 - 43 - 48
+Grau V(11):5
+
+Vertice 12 : 52
+Grau V(12):1
+
+Vertice 13 : 34
+Grau V(13):1
+
+Vertice 14 : 6 - 7 - 10 - 18 - 33 - 42 - 55 - 58
+Grau V(14):8
+
+Vertice 15 : 1 - 4 - 17 - 25 - 34 - 35 - 38 - 39 - 41 - 44 - 51 - 53
+Grau V(15):12
+
+Vertice 16 : 1 - 19 - 25 - 41 - 46 - 56 - 60
+Grau V(16):7
+
+Vertice 17 : 15 - 21 - 34 - 38 - 39 - 51
+Grau V(17):6
+
+Vertice 18 : 2 - 7 - 10 - 14 - 23 - 26 - 28 - 32 - 58
+Grau V(18):9
+
+Vertice 19 : 16 - 21 - 22 - 25 - 30 - 46 - 52
+Grau V(19):7
+
+Vertice 20 : 2 - 8 - 31 - 55
+Grau V(20):4
+
+Vertice 21 : 9 - 17 - 19 - 29 - 37 - 39 - 45 - 48 - 51
+Grau V(21):9
+
+Vertice 22 : 19 - 30 - 34 - 38 - 46 - 52
+Grau V(22):6
+
+Vertice 23 : 18
+Grau V(23):1
+
+Vertice 24 : 37 - 46 - 52
+Grau V(24):3
+
+Vertice 25 : 15 - 16 - 19 - 30 - 46 - 52
+Grau V(25):6
+
+Vertice 26 : 18 - 27 - 28
+Grau V(26):3
+
+Vertice 27 : 2 - 26 - 28
+Grau V(27):3
+
+Vertice 28 : 2 - 8 - 18 - 26 - 27
+Grau V(28):5
+
+Vertice 29 : 2 - 9 - 21 - 31 - 48
+Grau V(29):5
+
+Vertice 30 : 11 - 19 - 22 - 25 - 36 - 44 - 46 - 52 - 53
+Grau V(30):9
+
+Vertice 31 : 8 - 20 - 29 - 43 - 48
+Grau V(31):5
+
+Vertice 32 : 18
+Grau V(32):1
+
+Vertice 33 : 10 - 14 - 61
+Grau V(33):3
+
+Vertice 34 : 13 - 15 - 17 - 22 - 35 - 38 - 39 - 41 - 44 - 51
+Grau V(34):10
+
+Vertice 35 : 15 - 34 - 38 - 45 - 50
+Grau V(35):5
+
+Vertice 36 : 30
+Grau V(36):1
+
+Vertice 37 : 2 - 21 - 24 - 38 - 40 - 41 - 60
+Grau V(37):7
+
+Vertice 38 : 9 - 15 - 17 - 22 - 34 - 35 - 37 - 41 - 44 - 46 - 62
+Grau V(38):11
+
+Vertice 39 : 15 - 17 - 21 - 34 - 44 - 45 - 53 - 59
+Grau V(39):8
+
+Vertice 40 : 37 - 58
+Grau V(40):2
+
+Vertice 41 : 1 - 8 - 15 - 16 - 34 - 37 - 38 - 53
+Grau V(41):8
+
+Vertice 42 : 2 - 10 - 14 - 55 - 58
+Grau V(42):5
+
+Vertice 43 : 1 - 3 - 11 - 31 - 48 - 51
+Grau V(43):6
+
+Vertice 44 : 15 - 30 - 34 - 38 - 39 - 47 - 54
+Grau V(44):7
+
+Vertice 45 : 3 - 21 - 35 - 39
+Grau V(45):4
+
+Vertice 46 : 9 - 16 - 19 - 22 - 24 - 25 - 30 - 38 - 51 - 52 - 60
+Grau V(46):11
+
+Vertice 47 : 44 - 50
+Grau V(47):2
+
+Vertice 48 : 1 - 11 - 21 - 29 - 31 - 43
+Grau V(48):6
+
+Vertice 49 : 58
+Grau V(49):1
+
+Vertice 50 : 35 - 47
+Grau V(50):2
+
+Vertice 51 : 15 - 17 - 21 - 34 - 43 - 46 - 52
+Grau V(51):7
+
+Vertice 52 : 5 - 12 - 19 - 22 - 24 - 25 - 30 - 46 - 51 - 56
+Grau V(52):10
+
+Vertice 53 : 15 - 30 - 39 - 41
+Grau V(53):4
+
+Vertice 54 : 44 - 62
+Grau V(54):2
+
+Vertice 55 : 2 - 7 - 8 - 14 - 20 - 42 - 58
+Grau V(55):7
+
+Vertice 56 : 16 - 52
+Grau V(56):2
+
+Vertice 57 : 6 - 7
+Grau V(57):2
+
+Vertice 58 : 6 - 7 - 10 - 14 - 18 - 40 - 42 - 49 - 55
+Grau V(58):9
+
+Vertice 59 : 39
+Grau V(59):1
+
+Vertice 60 : 4 - 9 - 16 - 37 - 46
+Grau V(60):5
+
+Vertice 61 : 33
+Grau V(61):1
+
+Vertice 62 : 3 - 38 - 54
+Grau V(62):3
+
+----Cliques Maximais----
+
+Total de cliques: 84
+Clique: 1
+Tamanho do clique: 2
+62 54 
+
+Clique: 2
+Tamanho do clique: 2
+62 38 
+
+Clique: 3
+Tamanho do clique: 2
+62 3 
+
+Clique: 4
+Tamanho do clique: 2
+61 33 
+
+Clique: 5
+Tamanho do clique: 3
+60 46 16 
+
+Clique: 6
+Tamanho do clique: 3
+60 46 9 
+
+Clique: 7
+Tamanho do clique: 2
+60 37 
+
+Clique: 8
+Tamanho do clique: 3
+60 9 4 
+
+Clique: 9
+Tamanho do clique: 2
+59 39 
+
+Clique: 10
+Tamanho do clique: 4
+58 55 42 14 
+
+Clique: 11
+Tamanho do clique: 4
+58 55 14 7 
+
+Clique: 12
+Tamanho do clique: 2
+58 49 
+
+Clique: 13
+Tamanho do clique: 4
+58 42 14 10 
+
+Clique: 14
+Tamanho do clique: 2
+58 40 
+
+Clique: 15
+Tamanho do clique: 5
+58 18 14 10 7 
+
+Clique: 16
+Tamanho do clique: 4
+58 14 10 6 
+
+Clique: 17
+Tamanho do clique: 2
+57 7 
+
+Clique: 18
+Tamanho do clique: 2
+57 6 
+
+Clique: 19
+Tamanho do clique: 2
+56 52 
+
+Clique: 20
+Tamanho do clique: 2
+56 16 
+
+Clique: 21
+Tamanho do clique: 3
+55 42 2 
+
+Clique: 22
+Tamanho do clique: 3
+55 20 8 
+
+Clique: 23
+Tamanho do clique: 3
+55 20 2 
+
+Clique: 24
+Tamanho do clique: 2
+54 44 
+
+Clique: 25
+Tamanho do clique: 3
+53 41 15 
+
+Clique: 26
+Tamanho do clique: 3
+53 39 15 
+
+Clique: 27
+Tamanho do clique: 2
+53 30 
+
+Clique: 28
+Tamanho do clique: 3
+52 51 46 
+
+Clique: 29
+Tamanho do clique: 5
+52 46 30 25 19 
+
+Clique: 30
+Tamanho do clique: 5
+52 46 30 22 19 
+
+Clique: 31
+Tamanho do clique: 3
+52 46 24 
+
+Clique: 32
+Tamanho do clique: 2
+52 12 
+
+Clique: 33
+Tamanho do clique: 2
+52 5 
+
+Clique: 34
+Tamanho do clique: 2
+51 43 
+
+Clique: 35
+Tamanho do clique: 4
+51 34 17 15 
+
+Clique: 36
+Tamanho do clique: 3
+51 21 17 
+
+Clique: 37
+Tamanho do clique: 2
+50 47 
+
+Clique: 38
+Tamanho do clique: 2
+50 35 
+
+Clique: 39
+Tamanho do clique: 3
+48 43 31 
+
+Clique: 40
+Tamanho do clique: 4
+48 43 11 1 
+
+Clique: 41
+Tamanho do clique: 3
+48 31 29 
+
+Clique: 42
+Tamanho do clique: 3
+48 29 21 
+
+Clique: 43
+Tamanho do clique: 2
+47 44 
+
+Clique: 44
+Tamanho do clique: 3
+46 38 22 
+
+Clique: 45
+Tamanho do clique: 3
+46 38 9 
+
+Clique: 46
+Tamanho do clique: 4
+46 25 19 16 
+
+Clique: 47
+Tamanho do clique: 3
+45 39 21 
+
+Clique: 48
+Tamanho do clique: 2
+45 35 
+
+Clique: 49
+Tamanho do clique: 2
+45 3 
+
+Clique: 50
+Tamanho do clique: 4
+44 39 34 15 
+
+Clique: 51
+Tamanho do clique: 4
+44 38 34 15 
+
+Clique: 52
+Tamanho do clique: 2
+44 30 
+
+Clique: 53
+Tamanho do clique: 3
+43 11 3 
+
+Clique: 54
+Tamanho do clique: 3
+41 38 37 
+
+Clique: 55
+Tamanho do clique: 4
+41 38 34 15 
+
+Clique: 56
+Tamanho do clique: 3
+41 16 1 
+
+Clique: 57
+Tamanho do clique: 3
+41 15 1 
+
+Clique: 58
+Tamanho do clique: 2
+41 8 
+
+Clique: 59
+Tamanho do clique: 2
+40 37 
+
+Clique: 60
+Tamanho do clique: 4
+39 34 17 15 
+
+Clique: 61
+Tamanho do clique: 3
+39 21 17 
+
+Clique: 62
+Tamanho do clique: 4
+38 35 34 15 
+
+Clique: 63
+Tamanho do clique: 3
+38 34 22 
+
+Clique: 64
+Tamanho do clique: 4
+38 34 17 15 
+
+Clique: 65
+Tamanho do clique: 2
+37 24 
+
+Clique: 66
+Tamanho do clique: 2
+37 21 
+
+Clique: 67
+Tamanho do clique: 2
+37 2 
+
+Clique: 68
+Tamanho do clique: 2
+36 30 
+
+Clique: 69
+Tamanho do clique: 2
+34 13 
+
+Clique: 70
+Tamanho do clique: 3
+33 14 10 
+
+Clique: 71
+Tamanho do clique: 2
+32 18 
+
+Clique: 72
+Tamanho do clique: 3
+31 20 8 
+
+Clique: 73
+Tamanho do clique: 2
+30 11 
+
+Clique: 74
+Tamanho do clique: 3
+29 21 9 
+
+Clique: 75
+Tamanho do clique: 2
+29 2 
+
+Clique: 76
+Tamanho do clique: 3
+28 27 26 
+
+Clique: 77
+Tamanho do clique: 3
+28 27 2 
+
+Clique: 78
+Tamanho do clique: 3
+28 26 18 
+
+Clique: 79
+Tamanho do clique: 3
+28 18 2 
+
+Clique: 80
+Tamanho do clique: 2
+28 8 
+
+Clique: 81
+Tamanho do clique: 2
+25 15 
+
+Clique: 82
+Tamanho do clique: 2
+23 18 
+
+Clique: 83
+Tamanho do clique: 2
+21 19 
+
+Clique: 84
+Tamanho do clique: 2
+15 4 
+
+----Coeficiente de Aglomeracao----
+
+Vertice: 1 - 0.333333
+Vertice: 2 - 0.142857
+Vertice: 3 - 0.166667
+Vertice: 4 - 0.333333
+Vertice: 5 - 0
+Vertice: 6 - 0.5
+Vertice: 7 - 0.533333
+Vertice: 8 - 0.2
+Vertice: 9 - 0.266667
+Vertice: 10 - 0.52381
+Vertice: 11 - 0.4
+Vertice: 12 - 0
+Vertice: 13 - 0
+Vertice: 14 - 0.5
+Vertice: 15 - 0.257576
+Vertice: 16 - 0.238095
+Vertice: 17 - 0.6
+Vertice: 18 - 0.222222
+Vertice: 19 - 0.52381
+Vertice: 20 - 0.5
+Vertice: 21 - 0.138889
+Vertice: 22 - 0.533333
+Vertice: 23 - 0
+Vertice: 24 - 0.333333
+Vertice: 25 - 0.533333
+Vertice: 26 - 0.666667
+Vertice: 27 - 0.666667
+Vertice: 28 - 0.4
+Vertice: 29 - 0.3
+Vertice: 30 - 0.25
+Vertice: 31 - 0.3
+Vertice: 32 - 0
+Vertice: 33 - 0.333333
+Vertice: 34 - 0.333333
+Vertice: 35 - 0.3
+Vertice: 36 - 0
+Vertice: 37 - 0.047619
+Vertice: 38 - 0.236364
+Vertice: 39 - 0.285714
+Vertice: 40 - 0
+Vertice: 41 - 0.25
+Vertice: 42 - 0.6
+Vertice: 43 - 0.333333
+Vertice: 44 - 0.238095
+Vertice: 45 - 0.166667
+Vertice: 46 - 0.309091
+Vertice: 47 - 0
+Vertice: 48 - 0.4
+Vertice: 49 - 0
+Vertice: 50 - 0
+Vertice: 51 - 0.238095
+Vertice: 52 - 0.244444
+Vertice: 53 - 0.333333
+Vertice: 54 - 0
+Vertice: 55 - 0.380952
+Vertice: 56 - 0
+Vertice: 57 - 0
+Vertice: 58 - 0.361111
+Vertice: 59 - 0
+Vertice: 60 - 0.3
+Vertice: 61 - 0
+Vertice: 62 - 0
+
+Coeficiente de Aglomeracao Medio do Grafo: 0.258958
